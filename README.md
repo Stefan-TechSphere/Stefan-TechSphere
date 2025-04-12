@@ -5,7 +5,7 @@ Passionate about building responsive, user-friendly websites and web application
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue)](#)
 [![Email](https://img.shields.io/badge/Email-stefandb910@gmail.com-blue)](mailto:stefandb910@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/stefan-de-bruin-874384a7/) <!-- Replace with your actual link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/stefan-techsphere/) <!-- Replace with your actual link -->
 
 ---
 
@@ -50,7 +50,7 @@ Manual hosting & deployment, GitHub Pages (coming soon)
 ## 📫 Get in Touch
 
 - Email: **stefandb910@gmail.com**
-- LinkedIn: [Stefan de Bruin](https://www.linkedin.com/in/stefan-de-bruin-874384a7/)
+- LinkedIn: [Stefan de Bruin](https://www.linkedin.com/in/stefan-techsphere/)
 - Portfolio: (Coming soon)
 
 ---
