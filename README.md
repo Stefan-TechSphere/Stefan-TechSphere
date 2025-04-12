@@ -50,7 +50,7 @@ Manual hosting & deployment, GitHub Pages (coming soon)
 ## 📫 Get in Touch
 
 - Email: **stefandb910@gmail.com**
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/stefan-de-bruin-874384a7/)
+- LinkedIn: Stefan de Bruin(https://www.linkedin.com/in/stefan-de-bruin-874384a7/)
 - Portfolio: (Coming soon)
 
 ---
