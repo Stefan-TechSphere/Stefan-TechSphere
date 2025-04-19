@@ -33,9 +33,12 @@ Manual hosting & deployment, GitHub Pages (coming soon)
 
 ## 📂 Projects
 
-### 🚀 Portfolio Website (Coming soon)
-> Personal portfolio showcasing my web development projects and skills.
+### 🚀 Portfolio Website
+> A fully responsive, professional portfolio built under the TechSphere Technologies brand.  
+> Features 6 demo projects with unique styles and branding, showcasing my frontend and UI/UX development capabilities.
 
+🌐 **Live Site:** [portfolio.techspheretechnologies.com](https://portfolio.techspheretechnologies.com)  
+🔗 **GitHub Repo:** [github.com/Stefan-TechSphere/techsphere-portfolio](https://github.com/Stefan-TechSphere/techsphere-portfolio)
 ### 🌟 College Website Project
 > Collaborative PHP-based website built with my team for a school project. Focused on teamwork and backend integration.
 
