@@ -1,63 +1,65 @@
 # Hi, I'm Stefan de Bruin! 👋
 
-**Junior Web Developer** | Founder of **TechSphere Technologies**  
-Passionate about building responsive, user-friendly websites and web applications. Focused on helping businesses grow through effective web solutions.
+**Junior Web Developer** | Founder of [**TechSphere Technologies**](https://techspheretechnologies.com)  
+I’m passionate about building responsive, user-focused websites and applications that help businesses grow.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Now-blue)](https://portfolio.techspheretechnologies.com)
 [![Email](https://img.shields.io/badge/Email-stefandb910@gmail.com-blue)](mailto:stefandb910@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/stefan-techsphere/) <!-- Replace with your actual link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/stefan-techsphere/)
 
 ---
 
 ## 🚀 Tech Stack
 
-**Frontend:**  
+**Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Backend:**  
+**Backend**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Database:**  
+**Database**  
 MySQL
 
-**Tools & Environment:**  
-VSCode, Git, GitHub, cPanel File Manager
+**Tools**  
+VSCode • Git • GitHub • cPanel • File Manager • Canva
 
-**Deployment:**  
-Manual hosting & deployment, GitHub Pages (coming soon)
-
----
-
-## 📂 Projects
-
-### 🚀 Portfolio Website
-> A fully responsive, professional portfolio built under the TechSphere Technologies brand.  
-> Features 6 demo projects with unique styles and branding, showcasing my frontend and UI/UX development capabilities.
-
-🌐 **Live Site:** [portfolio.techspheretechnologies.com](https://portfolio.techspheretechnologies.com)  
-🔗 **GitHub Repo:** [github.com/Stefan-TechSphere/techsphere-portfolio](https://github.com/Stefan-TechSphere/techsphere-portfolio)
-### 🌟 College Website Project
-> Collaborative PHP-based website built with my team for a school project. Focused on teamwork and backend integration.
-
-### ♠️ Blackjack Game
-> A simple, fun Blackjack game built in JavaScript while learning DOM manipulation and game logic.
-
-### 🧩 Scrimba Practice Apps
-> Practical apps built while learning JavaScript through Scrimba tutorials.
+**Deployment**  
+Manual Hosting • GitHub Pages (Coming soon)
 
 ---
 
-## 📫 Get in Touch
+## 📂 Featured Projects
 
-- Email: **stefandb910@gmail.com**
-- LinkedIn: [Stefan de Bruin](https://www.linkedin.com/in/stefan-techsphere/)
-- Portfolio: (Coming soon)
+### 🚀 Portfolio Website  
+> A fully responsive, professionally branded portfolio with 6 interactive project demos.  
+> Built with HTML, Tailwind CSS, and custom UI/UX for each case study.
+
+🌐 [Live Site](https://portfolio.techspheretechnologies.com)  
+📁 [View Code](https://github.com/Stefan-TechSphere/techsphere-portfolio)
+
+### 🌟 College Website Project  
+> A PHP-based collaborative school project showcasing teamwork and backend implementation.
+
+### ♠️ Blackjack Game  
+> A JavaScript game built while learning DOM manipulation and game logic.
+
+### 🧩 Scrimba Practice Apps  
+> Mini frontend apps built during JavaScript training using Scrimba.
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: [stefandb910@gmail.com](mailto:stefandb910@gmail.com)  
+- 💼 LinkedIn: [Stefan de Bruin](https://www.linkedin.com/in/stefan-techsphere/)  
+- 🌐 Portfolio: [portfolio.techspheretechnologies.com](https://portfolio.techspheretechnologies.com)
 
 ---
 
 ## ⚡ Fun Fact
 
-> I believe in leading by example and always going the extra mile to deliver high-quality work, whether it's a landing page or a full web application.
+> I lead by example, take pride in going the extra mile, and aim to deliver high-quality work — from a single landing page to a full application ecosystem.
